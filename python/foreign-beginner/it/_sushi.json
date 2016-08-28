@@ -1,0 +1,37 @@
+{
+  "series_title": "Il mio primo programma Python",
+  "language": "it",
+  "subject": "python",
+  "description": "Impariamo i comandi base di Python scrivendo i nostri primi giochi.",
+  "author": "CoderDojo Brianza",
+  "website": "http://www.coderdojobrianza.it",
+  "twitter": "@coderdojobza",
+  "difficulty": 1,
+  "cards": [
+    {
+      "title": "Editare un sorgente Python",
+      "filename": "01",
+      "card_number": 1
+    },
+    {
+      "title": "Interagire con l'utente",
+      "filename": "02",
+      "card_number": 2
+    },
+    {
+      "title": "Indovina il numero",
+      "filename": "03",
+      "card_number": 3
+    },
+    {
+      "title": "La caverna del drago (1/2)",
+      "filename": "04",
+      "card_number": 4
+    },
+    {
+      "title": "La caverna del drago (2/2)",
+      "card_number": 5,
+      "filename": "05"
+    }
+  ]
+}

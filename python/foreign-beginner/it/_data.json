@@ -1,0 +1,72 @@
+{
+  "01": {
+    "title": "Editare un sorgente Python",
+    "filename": "01",
+    "language": "python",
+    "subject": "python",
+    "card_number": 1,
+    "series_total_cards": 5,
+    "series_title": "Il mio primo programma Python",
+    "author": {
+      "name": "CoderDojo Brianza",
+      "twitter": "coderdojobza",
+      "website": "http://www.coderdojobrianza.it"
+    }
+  },
+  "02": {
+    "title": "Interagire con l'utente",
+    "filename": "02",
+    "language": "python",
+    "subject": "python",
+    "card_number": 2,
+    "series_total_cards": 5,
+    "series_title": "Il mio primo programma Python",
+    "author": {
+      "name": "CoderDojo Brianza",
+      "twitter": "coderdojobza",
+      "website": "http://www.coderdojobrianza.it"
+    }
+  },
+  "03": {
+    "title": "Indovina il numero",
+    "filename": "03",
+    "language": "python",
+    "subject": "python",
+    "card_number": 3,
+    "series_total_cards": 5,
+    "series_title": "Il mio primo programma Python",
+    "author": {
+      "name": "CoderDojo Brianza",
+      "twitter": "coderdojobza",
+      "website": "http://www.coderdojobrianza.it"
+    }
+  },
+  "04": {
+    "title": "La caverna del drago (1/2)",
+    "filename": "04",
+    "language": "python",
+    "subject": "python",
+    "card_number": 4,
+    "series_total_cards": 5,
+    "series_title": "Il mio primo programma Python",
+    "author": {
+      "name": "CoderDojo Brianza",
+      "twitter": "coderdojobza",
+      "website": "http://www.coderdojobrianza.it"
+    }
+  },
+  "05": {
+    "title": "La caverna del drago (2/2)",
+    "filename": "05",
+    "language": "python",
+    "subject": "python",
+    "card_number": 5,
+    "series_total_cards": 5,
+    "series_title": "Il mio primo programma Python",
+    "author": {
+      "name": "CoderDojo Brianza",
+      "twitter": "coderdojobza",
+      "website": "http://www.coderdojobrianza.it"
+    }
+  }
+}
